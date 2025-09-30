@@ -18,7 +18,7 @@ A Node.js-based face verification system that compares two facial images and det
 2. **Install dependencies**:
 
 ```
-npm install face-api.js canvas
+npm install
 ```
 
 ## Project Structure
