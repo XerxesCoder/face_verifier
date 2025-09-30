@@ -1,0 +1,44 @@
+{
+  "verificationId": "verify_1759232287596",
+  "timestamp": "2025-09-30T11:38:07.596Z",
+  "result": {
+    "isMatch": true,
+    "faceDistance": 0.4159084944620524,
+    "threshold": 0.6,
+    "confidence": 0.30681917589657925,
+    "status": "VERIFIED"
+  },
+  "referenceImage": {
+    "filename": "0.jpg",
+    "faceDetected": true,
+    "detectionScore": 0.9735119342803955,
+    "faceFile": "face_reference.jpg",
+    "coordinates": {
+      "x": 137,
+      "y": 74,
+      "width": 155,
+      "height": 193
+    },
+    "imageDimensions": {
+      "width": 408,
+      "height": 612
+    }
+  },
+  "queryImage": {
+    "filename": "1.jpg",
+    "faceDetected": true,
+    "detectionScore": 0.9686797857284546,
+    "faceFile": "face_query.jpg",
+    "coordinates": {
+      "x": 80,
+      "y": 51,
+      "width": 87,
+      "height": 108
+    },
+    "imageDimensions": {
+      "width": 250,
+      "height": 323
+    }
+  },
+  "outputDirectory": "2025-09-30T11-37-49-125Z"
+}
